@@ -1,0 +1,7 @@
+.profile {
+    background-color: rgb(154, 154, 209);
+    color: aliceblue;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
